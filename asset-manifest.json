@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Canvas-Fade/static/css/main.1bc9b009.chunk.css",
+    "main.js": "/Canvas-Fade/static/js/main.c6b12629.chunk.js",
+    "main.js.map": "/Canvas-Fade/static/js/main.c6b12629.chunk.js.map",
+    "runtime-main.js": "/Canvas-Fade/static/js/runtime-main.47d3f0b5.js",
+    "runtime-main.js.map": "/Canvas-Fade/static/js/runtime-main.47d3f0b5.js.map",
+    "static/js/2.9b7ee91c.chunk.js": "/Canvas-Fade/static/js/2.9b7ee91c.chunk.js",
+    "static/js/2.9b7ee91c.chunk.js.map": "/Canvas-Fade/static/js/2.9b7ee91c.chunk.js.map",
+    "index.html": "/Canvas-Fade/index.html",
+    "static/css/main.1bc9b009.chunk.css.map": "/Canvas-Fade/static/css/main.1bc9b009.chunk.css.map",
+    "static/js/2.9b7ee91c.chunk.js.LICENSE.txt": "/Canvas-Fade/static/js/2.9b7ee91c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d3f0b5.js",
+    "static/js/2.9b7ee91c.chunk.js",
+    "static/css/main.1bc9b009.chunk.css",
+    "static/js/main.c6b12629.chunk.js"
+  ]
+}
